@@ -19,11 +19,6 @@ This crawler is developed to support public knowledge related to labor rights an
 - **Adherence to Directives**: This crawler strictly adheres to the directives outlined in the `robots.txt` files of all target websites. It is configured to respect all `Disallow` and `Allow` rules to ensure compliance with each site's policy on automated access.
 - **Respect for Site Architecture**: The crawler is designed to navigate and parse websites without causing undue strain or impact on their operational performance.
 
-## Ethical Considerations
-
-- **Data Use**: All data retrieved by this crawler is used for the sole purpose of aggregating news content related to labor issues. The data is used to provide direct links to the original articles on the native news platforms, ensuring full credit remains with the original publishers and authors.
-- **Transparency**: We commit to transparency in our operations, providing clear contact information for any inquiries or concerns from web administrators or the public.
-
 ## Contact Information
 
 For any inquiries, feedback, or concerns about the Labor Chronicle Crawler, please contact:
